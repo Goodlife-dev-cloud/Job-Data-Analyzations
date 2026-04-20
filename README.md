@@ -51,13 +51,6 @@ The dataset used in this project includes information on:
 * Most roles require at least a bachelor's degree
 * Data analytics is a high-demand career globally
 
----
-
-## 📷 Dashboard Preview
-
-(Add screenshots of your Power BI dashboard here)
-
----
 
 ## 🚀 Conclusion
 
